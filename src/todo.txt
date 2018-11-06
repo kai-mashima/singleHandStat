@@ -1,0 +1,9 @@
+Todo:
+
+-Visual:
+    Stats page
+    sub adjust page 
+    rotation adjust page 
+    score adjust page
+    timeout usage page 
+    
